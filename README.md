@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kalli, a 27 year-old front-end developer from Egypt.
+- 👋 Hi, I’m Kalli, a front-end developer from Egypt.
 - Tech I currently use ( HTML, CSS, JS, TS, Vuejs-Vuex-Vue router, Git, Firebase).
 - I’m currently learning Nodejs/Expressjs and SQL because I'm interested in understanding the full stack. You can read more about me @ https://kalligator.com/
 - I’m looking to collaborate on new, exciting ideas.
